@@ -29,9 +29,9 @@
                         echo '<li><a class="btn" href="signin.php">SIGN IN / SIGN UP</a></li>';
                     } else {
                         
-                        echo "<li><a href=\"formSauvetage.php\">Inscrire un sauvetage</a></li>";
+                       
                         echo "<li><a href=\"accueil.php\">Défi : 2Authentification - Profil</a></li>";
-
+                        echo "<li><a href=\"formSauvetage.php\">Inscrire un sauvetage</a></li>";
                         echo '<li><a class="btn" href="scripts/deconnexion.php">Deconnexion</a></li>';
                     }
 

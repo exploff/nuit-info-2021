@@ -62,7 +62,7 @@
 					<h1 class="page-title">Profil - Accueil</h1>
 				</header>
 
-               
+               <p>Attention la double authentification est nécessaire pour inscrire un sauvetage :) </p>
 				
 				<p>
                     <?php

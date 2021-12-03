@@ -54,11 +54,11 @@
 				</header>
 				
 				<p>
-					We’d love to hear from you. Interested in working together? Fill out the form below with some info about your project and I will get back to you as soon as I can. Please allow a couple days for me to respond.
 				</p>
 				<br>
 				
-                <a href="#geo1">Géolocalisation des sauvetages par type d'incident et durée</a>
+                <a href="#geo1">Géolocalisation des sauvetages par type d'incident et durée au cours des années
+                </a>
                 <a href=""></a>
                 <a href=""></a>
                 <a href=""></a>
