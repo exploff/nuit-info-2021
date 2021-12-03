@@ -58,13 +58,14 @@
 				<br>
 				
                 <a href="#geo1">Géolocalisation des sauvetages par type d'incident et durée au cours des années
-                </a>
-                <a href=""></a>
+                </a><br/>
+                <a href="#geo2">Sauvetages par types</a>
                 <a href=""></a>
                 <a href=""></a>
 
-                <iframe id="geo1" style="border: 0; overflow: hidden; height: 800px;" frameBorder="0" height="100%" width="100%" src="https://nuit-info-2021.toucantoco.com/embed.html?id=c10cb795-47eb-43a6-b72e-c154a5e4c763&stage=staging"></iframe>
+				<iframe id="geo1" style="border: 0; overflow: hidden; height: 800px;" frameBorder="0" height="100%" width="100%" src="https://nuit-info-2021.toucantoco.com/embed.html?id=c10cb795-47eb-43a6-b72e-c154a5e4c763&title=true&stage=staging"></iframe>
 					
+				<iframe id="geo2" style="border: 0; overflow: hidden; height: 500px;" frameBorder="0" height="100%" width="100%" src="https://nuit-info-2021.toucantoco.com/embed.html?id=79c47dc3-a9e6-49ef-9efe-1dfb6048886f&title=true&stage=staging"></iframe>
 
 			</article>
 

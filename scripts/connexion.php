@@ -46,6 +46,6 @@ if(isset($_POST['connexion'])){
 
 echo $_SESSION['msg'];
 
-// header('Location: ../signin.php');
+header('Location: ../signin.php');
 
-// exit;
+exit;

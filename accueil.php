@@ -1,5 +1,5 @@
 <?php
-    session_start();
+    include('scripts/configdb.php');
     include("scripts/2authActive.php");
 
     if(!isset($_SESSION['id']) || empty($_SESSION['id']) ){
@@ -8,7 +8,6 @@
         exit();
     } 
 
-    include('scripts/configdb.php');
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -62,7 +61,17 @@
 					<h1 class="page-title">Profil - Accueil</h1>
 				</header>
 
-               <p>Attention la double authentification est nécessaire pour inscrire un sauvetage :) </p>
+               <p>Attention si la double authentification est activé il faudra la résoudre pour ajouter des sauvetages :) </p>
+               <p>
+                    Utilisez l'application mobile : Google Authenticator<br/>
+                    - Télécharger l'application sur votre mobile<br/>
+                    - Scanner le QRCode à l'aide de la fonctionnalité<br/>
+                    - Google vous transmettra un code pour se double authentifier<br/>
+                    - Entrer le code et enjoy !<br/>
+                    - Ce code est valable pour votre session courante et est réactualiser toutes les 30 secondes pour un maximum de sécurité ! 
+
+                </p>
+                <p>Vous pouvez aussi la désactiver ci-dessous</p>
 				
 				<p>
                     <?php

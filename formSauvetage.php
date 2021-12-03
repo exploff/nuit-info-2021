@@ -11,7 +11,7 @@
 
 		if ($estActive == 1) {
 			if (!isset($_SESSION['double_auth']) || empty($_SESSION['double_auth'])){
-				header('Location: index.php');
+				header('Location: accueil.php');
 				exit();
 			}
 		}
