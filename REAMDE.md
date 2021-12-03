@@ -2,8 +2,7 @@
 
 # Connexion au compte administrateur sur le site et accàs aux défis :
 
-- login : root@root.com
-- mot de passe : rootroot
+- Vous pouvez créer un compte ! 
 
 # Défi Toucan 
 
