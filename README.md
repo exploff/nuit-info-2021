@@ -1,4 +1,4 @@
-# Adresse web : http://193.70.36.186/index.php
+# Adresse web : 
 Connexion au compte administrateur sur le site et accàs aux défis :
 
     login : root@root.com
